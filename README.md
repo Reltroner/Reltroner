@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I’m Raidan — aka Reltroner
 
-<!--
-**Reltroner/Reltroner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Full Stack Developer  
+🧠 Worldbuilder & Creator of Astralis Pinnacle  
+📚 Building: reltroner-studio.vercel.app
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔷 What is Reltroner?
+
+**Reltroner** is not just a username — it's a living system.  
+A digital identity born from the ashes of rock bottom, forged with purpose, vision, and relentless growth.
+
+**Reltroner** is a self-built brand that merges:
+- 🧠 Full-stack development & system architecture  
+- 🌌 Worldbuilding, storytelling, and creative design  
+- 🏗️ Self-discipline, long-term vision, and digital craftsmanship  
+
+> “I don’t just code. I build my own world — brick by brick, repo by repo.”
+
+Whether it's a Laravel backend, a Next.js blog, or a philosophical roadmap to 2045 —  
+**Reltroner** represents a journey to create meaning, value, and legacy through clean code, clean systems, and clean vision.
+
+**Built from scratch. Documented with clarity.  
+Always moving forward — toward Astralis Pinnacle.** 🔺
