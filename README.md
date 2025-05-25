@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Raidan — aka Reltroner
+# 👋 Hi, I’m Rei Reltroner
 
 🔧 Full Stack Developer  
 🧠 Worldbuilder & Creator of Astralis Pinnacle  
