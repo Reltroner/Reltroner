@@ -9,7 +9,7 @@
 
 ## 🔷 What is Reltroner?
 
-**Reltroner** is not just a username — it's a sovereign operating system.  
+**Reltroner** is not just a username it's a sovereign operating system.  
 A digital identity born from the ashes of failure, shaped by frustration, and sharpened through self-reliant execution.
 
 **Reltroner** is a long-term creation that fuses:
@@ -17,7 +17,7 @@ A digital identity born from the ashes of failure, shaped by frustration, and sh
 - 🌌 Worldbuilding, data-driven storytelling, and internal systems  
 - 🏗️ Red Pill philosophy, autonomy, and relentless clarity of purpose  
 
-> “I don’t just build apps — I build systems designed to survive.”  
+> “I don’t just build apps I build systems designed to survive.”  
 > No templates. No clone projects. Just clean logic built to last.
 
 From HR modules, modular dashboards, to Markdown-based narratives,  
@@ -25,4 +25,4 @@ From HR modules, modular dashboards, to Markdown-based narratives,
 chaos into clarity, and solitude into creative sovereignty.
 
 **Built alone. Structured with intent.  
-Always moving forward — toward Astralis Pinnacle.** 🔺
+Always moving forward toward Astralis Pinnacle.** 🔺
