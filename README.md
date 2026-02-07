@@ -1,28 +1,77 @@
 # 👋 Hi, I’m Rei Reltroner
 
-🔧 Full Stack Developer & System Architect  
-🧠 Worldbuilder | Founder of Reltroner Studio  
-🚀 Building: [reltroner.com](https://reltroner.com) & `Reltroner HRM`  
-📍 Solo-built, self-funded, hyper-efficient
+🔧 Backend / Full-Stack Engineer — System & Data Integrity Focus  
+🧠 Independent System Builder · Founder of Reltroner  
+🚀 Building: https://reltroner.com  
+📍 Solo-built · Self-funded · Architecture-first
 
 ---
 
 ## 🔷 What is Reltroner?
 
-**Reltroner** is not just a username it's a sovereign operating system.  
-A digital identity born from the ashes of failure, shaped by frustration, and sharpened through self-reliant execution.
+**Reltroner** is a long-term system-building project, not a demo portfolio.
 
-**Reltroner** is a long-term creation that fuses:
-- 🧠 Full-stack development & production-ready architecture (Laravel + Next.js)  
-- 🌌 Worldbuilding, data-driven storytelling, and internal systems  
-- 🏗️ Red Pill philosophy, autonomy, and relentless clarity of purpose  
+It is an independent ERP and internal system architecture built with a single guiding principle:
 
-> “I don’t just build apps I build systems designed to survive.”  
-> No templates. No clone projects. Just clean logic built to last.
+> **Systems must stop accepting invalid states.**
 
-From HR modules, modular dashboards, to Markdown-based narratives,  
-**Reltroner** represents an identity of a builder who turns rejection into structure,  
-chaos into clarity, and solitude into creative sovereignty.
+Reltroner focuses on:
+- 🧠 **System design with clear boundaries and invariants**
+- 🔒 **Data integrity, immutability, and audit-grade correctness**
+- 🏗️ **Backend-first architecture (Laravel, SQL, OIDC, SSO)**
+- 📄 **Explicit documentation, root-cause analysis, and freeze governance**
 
-**Built alone. Structured with intent.  
-Always moving forward toward Astralis Pinnacle.** 🔺
+This is not a feature-driven project.
+Each phase is designed, audited, documented, and **frozen** before moving forward.
+
+---
+
+## 🔐 Engineering Philosophy
+
+I intentionally work with **relational databases** and explicit business logic
+because ERP systems are **systems of record**, not UI workflows.
+
+Core principles I build around:
+- Single write authority
+- Immutable financial records
+- Clear separation of read vs write paths
+- Database-level constraints as the last line of defense
+- No premature abstraction, no silent shortcuts
+
+I believe correctness, clarity, and restraint scale better than speed.
+
+---
+
+## 🧊 Current Focus
+
+- Finance & accounting core (audit-grade, invariant-driven)
+- Authentication & SSO gateways (OIDC, delegated identity)
+- System documentation as first-class engineering artifacts
+- Designing systems that remain correct under pressure
+
+---
+
+## 🛠 Tech Stack (by intent, not trend)
+
+- **Backend:** Laravel, PHP, SQL (PostgreSQL / MySQL)
+- **Auth:** Keycloak, OpenID Connect
+- **Frontend:** Next.js (used deliberately, not excessively)
+- **Infra:** Minimal, observable, reproducible
+- **Docs:** Markdown, architecture notes, audit reports
+
+---
+
+## 🧭 How I Work
+
+I don’t optimize for velocity alone.
+
+I optimize for:
+- systems that cannot be misused accidentally
+- systems that remain explainable years later
+- systems that survive ownership and team changes
+
+Reltroner is built solo, but structured as if it will be inherited.
+
+---
+
+📌 This repository reflects **how I think**, not just what I can code.
