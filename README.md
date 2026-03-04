@@ -13,7 +13,7 @@ I’m a backend engineer who enjoys building and maintaining internal systems wi
 My recent work centers around:
 
 * Backend APIs (Laravel / REST)
-* Relational database design (MySQL / PostgreSQL)
+* Relational database design (MySQL / SQLite)
 * Role-based access control
 * CI/CD automation and structured documentation
 * Incremental improvements to existing systems
