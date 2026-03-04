@@ -76,21 +76,4 @@ This repository reflects practical backend execution and continuous refinement.
 
 ---
 
-Kalau kita bandingkan:
-
-### Before:
-
-* Founder energy
-* Architecture-first
-* Governance-heavy
-* Intimidating for SME hiring
-
-### After:
-
-* Backend execution focus
-* Maintainability
-* Production discipline
-* Low ego signal
-* Hireable surface
-
 
